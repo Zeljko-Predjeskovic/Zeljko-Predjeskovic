@@ -1,4 +1,4 @@
-### Hi there 👋, I am Zeljko, currently a computer science student and looking forward to have alot of fun projects.
+### Hi there 👋, I am Zeljko, currently a computer science student and looking forward to have a lot of fun projects.
 
 
 - 🔭 I’m currently working on a school project with a 20 raspberry pi cluster.
