@@ -7,7 +7,6 @@
 - 🥅 Summer 2021 Goals: At least one merged pull request in an open source project.
 - 💬 Ask me about everything you want.
 - 📫 How to reach me: zepr2022000@gmail.com
-- ⚡ Fun fact: I love to sports and food.
 
 ### Contact me through social media:
 
