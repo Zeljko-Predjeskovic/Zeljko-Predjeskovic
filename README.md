@@ -15,7 +15,7 @@
 
 <br />
 
-### Languages and Tools I like to use:
+### Languages and Tools:
 
 <img align="left" alt="Java" width="26px" style="margin-right:10px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/300px-Java_programming_language_logo.svg.png" />
 
