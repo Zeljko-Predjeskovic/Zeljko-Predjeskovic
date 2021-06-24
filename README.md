@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on a school project with a 20 raspberry pi cluster.
-- 🌱 I’m currently learning kubernetes.
+- 🌱 I’m currently learning kubernetes, machine learning.
 - 👯 I’m looking to collaborate on with everyone who wants a give is best into a project.
 - 🥅 Summer 2021 Goals: At least one merged pull request in an open source project.
 - 💬 Ask me about everything you want.
