@@ -31,9 +31,11 @@
 
 <img align="left" alt="Node.js" width="26px" style="margin:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="Postgres" width="40px" style="margin:10px" src="https://avatars.githubusercontent.com/u/177543?s=280&v=4" />
+<img align="left" alt="Postgres" width="30px" style="margin:10px" src="https://avatars.githubusercontent.com/u/177543?s=280&v=4" />
 
-<img align="left" alt="MongoDB" width="40px" style="margin:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Neo4j" width="30px" style="margin:10px" src="https://user-images.githubusercontent.com/44953551/123688289-1cfa0f80-d852-11eb-9763-2fea55fcf764.png" />
+
+<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 
 <img align="left" alt="Git" width="40px" style="margin:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
