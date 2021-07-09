@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on a project for managing photos. 
 - 🌱 I’m currently learning vue, nuxtjs.
-- 👯 I’m looking to collaborate on with everyone who wants to and give his best into a project.
-- 🥅 Summer 2021 Goals: At least one merged pull request in an open source project.
+- 👯 I’m looking to collaborate on with everyone who wants to and gives his best into a project.
+- 🥅 Summer 2021 Goals: At least one merged pull request into an open source project.
 - 💬 Ask me about everything you want.
 - 📫 How to reach me: zepr2022000@gmail.com
 
