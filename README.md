@@ -1,9 +1,9 @@
 ### Hi there 👋, I am Zeljko, currently a computer science student and looking forward to have a lot of fun projects.
 
 
-- 🔭 I’m currently working on a school project with a 20 raspberry pi cluster.
-- 🌱 I’m currently learning kubernetes, machine learning.
-- 👯 I’m looking to collaborate on with everyone who wants a give is best into a project.
+- 🔭 I’m currently working on a school project to manage photos. 
+- 🌱 I’m currently learning vue, nuxtjs.
+- 👯 I’m looking to collaborate on with everyone who wants a give its best into a project.
 - 🥅 Summer 2021 Goals: At least one merged pull request in an open source project.
 - 💬 Ask me about everything you want.
 - 📫 How to reach me: zepr2022000@gmail.com
