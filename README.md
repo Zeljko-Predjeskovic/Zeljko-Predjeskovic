@@ -35,17 +35,15 @@
 
 <img align="left" alt="Neo4j" width="30px" style="margin:10px" src="https://user-images.githubusercontent.com/44953551/123688289-1cfa0f80-d852-11eb-9763-2fea55fcf764.png" />
 
-<img align="left" alt="MongoDB" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
 <img align="left" alt="Git" width="40px" style="margin:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="Terminal" width="26px" style="margin:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img align="left" alt="Linux" width="26px" style="margin:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" />
 
-<img align="left" alt="Ruby" width="26px" style="margin:10px" src="https://avatars.githubusercontent.com/u/210414?s=280&v=4" />
-
 <img align="left" alt="Docker" width="40px" style="margin:10px" src="https://raw.githubusercontent.com/lordbasex/docker/master/docker-logo.png" />
+
+<img align="left" alt="Jenkins" width="26px" style="margin:10px" src="https://www.monolune.com/images/11/jenkins-logo.png" />
 
 <img align="left" alt="Ansible" width="26px" style="margin:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" />
 
