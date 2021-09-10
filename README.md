@@ -1,11 +1,5 @@
 ### Hi there 👋, I am Zeljko, currently a computer science student and looking forward to have a lot of fun projects.
 
-
-- 🔭 I’m currently working on a project for managing photos. 
-- 🌱 I’m currently learning more about software architecture.
-- 👯 I’m looking to collaborate on with everyone who wants to and gives his best into a project.
-- 🥅 Summer 2021 Goals: Studying as much as possible.
-- 💬 Ask me about everything you want.
 - 📫 How to reach me: zepr2022000@gmail.com
 
 ### Contact me through social media:
