@@ -33,7 +33,7 @@
 
 <img align="left" alt="Docker" width="40px" style="margin:10px" src="https://raw.githubusercontent.com/lordbasex/docker/master/docker-logo.png" />
 
-<img align="left" alt="Jenkins" width="26px" style="margin:10px" src="https://www.monolune.com/images/11/jenkins-logo.png" />
+<img align="left" alt="Jenkins" width="26px" style="margin:10px" src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" />
 
 <img align="left" alt="Ansible" width="26px" style="margin:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" />
 
