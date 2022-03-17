@@ -42,17 +42,5 @@
 <br/>
 <br/>
 
-### 2022 going for:
-
-<img align="left" alt="Kubernetes" width="26px" style="margin:10px" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png" />
-
-<img align="left" alt="Go" width="40px" style="margin:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" />
-
-
-<img align="left" alt="Android" width="40px" style="margin:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/640px-Android_logo_2019_%28stacked%29.svg.png"/>
-
-<p/>
-<br/>
-<br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeljko-Predjeskovic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
