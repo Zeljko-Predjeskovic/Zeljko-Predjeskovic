@@ -1,4 +1,4 @@
-### Hi there 👋, I am Zeljko, currently a computer science student and looking forward to have a lot of fun projects.
+### Hi there 👋, I am Zeljko, currently a C# software developer and looking forward to have a lot of fun projects.
 
 - 📫 How to reach me: zepr2022000@gmail.com
 
